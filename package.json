@@ -1,0 +1,23 @@
+{
+  "name": "workshop-tdd-pair-programming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simaraconceicao/workshop-tdd-pair-programming.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simaraconceicao/workshop-tdd-pair-programming/issues"
+  },
+  "homepage": "https://github.com/simaraconceicao/workshop-tdd-pair-programming#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
